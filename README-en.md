@@ -32,7 +32,6 @@ A powerful web application for organizing, categorizing, and managing AI prompts
 prompt-manager/
 ├── index.html          # Main application file
 ├── README.md          # Project documentation
-└── assets/            # (Optional) Additional assets
 ```
 
 ## 🚀 Quick Start
@@ -46,7 +45,7 @@ prompt-manager/
 1. **Download the Application**
    ```bash
    # Clone the repository or download the HTML file
-   git clone https://github.com/yourusername/prompt-manager.git
+   git clone https://github.com/brunofullstack/prompt-manager.git
    ```
 
 2. **Run the Application**

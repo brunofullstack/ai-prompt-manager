@@ -32,7 +32,6 @@ Uma aplicação web poderosa para organizar, categorizar e gerenciar prompts de 
 prompt-manager/
 ├── index.html          # Arquivo principal da aplicação
 ├── README.md          # Documentação do projeto
-└── assets/            # (Opcional) Assets adicionais
 ```
 
 ## 🚀 Início Rápido
@@ -46,7 +45,7 @@ prompt-manager/
 1. **Baixe a Aplicação**
    ```bash
    # Clone o repositório ou baixe o arquivo HTML
-   git clone https://github.com/seuusuario/prompt-manager.git
+   git clone https://github.com/brunofullstack/prompt-manager.git
    ```
 
 2. **Execute a Aplicação**
